@@ -18,3 +18,7 @@
 git commit - sha1: 2^160
 
 new line
+
+
+new things
+더 새로운 코드
