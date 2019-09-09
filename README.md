@@ -25,3 +25,6 @@ new things
 
 ## merge scenario
 auto merge
+
+version B: new conflict scenario
+new definition
