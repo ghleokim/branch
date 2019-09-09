@@ -17,3 +17,4 @@
 
 git commit - sha1: 2^160
 
+new line
