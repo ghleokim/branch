@@ -22,3 +22,6 @@ new line
 
 new things
 더 새로운 코드
+
+## merge scenario
+auto merge
