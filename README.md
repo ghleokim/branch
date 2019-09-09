@@ -26,5 +26,5 @@ new things
 ## merge scenario
 auto merge
 
-
 version A: 2019-09-09 11:45 trying to make conflict
+           2019-09-09 12:13 deal conflict
